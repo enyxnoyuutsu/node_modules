@@ -1,0 +1,108 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "extensions",
+        "scope": null,
+        "escapedName": "extensions",
+        "name": "extensions",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\enYx\\Documents\\GitHub"
+    ]
+  ],
+  "_from": "extensions@latest",
+  "_id": "extensions@4.1.1",
+  "_inCache": true,
+  "_location": "/extensions",
+  "_nodeVersion": "6.2.2",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/extensions-4.1.1.tgz_1466643711708_0.05394358350895345"
+  },
+  "_npmUser": {
+    "name": "williamkapke",
+    "email": "william.kapke@gmail.com"
+  },
+  "_npmVersion": "3.9.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "extensions",
+    "scope": null,
+    "escapedName": "extensions",
+    "name": "extensions",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/extensions/-/extensions-4.1.1.tgz",
+  "_shasum": "bd6aed2e8fe3a9a9ed2d83d8062a860c27059a07",
+  "_shrinkwrap": null,
+  "_spec": "extensions",
+  "_where": "C:\\Users\\enYx\\Documents\\GitHub",
+  "author": {
+    "name": "William Kapke"
+  },
+  "bugs": {
+    "url": "https://github.com/williamkapke/extensions/issues"
+  },
+  "dependencies": {
+    "component-type": "^1.1.0",
+    "lodash": ">=3.0.0 <5"
+  },
+  "description": "Doin' freaky nasty things to the built in prototypes.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "bd6aed2e8fe3a9a9ed2d83d8062a860c27059a07",
+    "tarball": "https://registry.npmjs.org/extensions/-/extensions-4.1.1.tgz"
+  },
+  "gitHead": "4808443951b8ddf2cad07dd4c8e814bc361346a7",
+  "homepage": "https://github.com/williamkapke/extensions#readme",
+  "keywords": [
+    "lodash",
+    "underscore",
+    "async",
+    "string",
+    "number",
+    "date",
+    "object",
+    "prototype",
+    "startsWith",
+    "endsWith",
+    "midnight",
+    "forEach",
+    "enumerate",
+    "email",
+    "pad",
+    "padStart",
+    "padEnd",
+    "padLeft",
+    "padRight",
+    "remove"
+  ],
+  "license": "unlicensed",
+  "main": "extensions.js",
+  "maintainers": [
+    {
+      "name": "williamkapke",
+      "email": "william.kapke@gmail.com"
+    }
+  ],
+  "name": "extensions",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamkapke/extensions.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "4.1.1"
+}
