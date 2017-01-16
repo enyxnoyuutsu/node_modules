@@ -10,7 +10,7 @@
         "spec": "latest",
         "type": "tag"
       },
-      "C:\\Users\\enYx\\Documents"
+      "C:\\Users\\enYx\\Documents\\GitHub"
     ]
   ],
   "_from": "fancy-groupme-bot@latest",
@@ -33,14 +33,14 @@
     "type": "tag"
   },
   "_requiredBy": [
-    "#USER",
-    "/"
+    "#DEV:/",
+    "#USER"
   ],
   "_resolved": "https://registry.npmjs.org/fancy-groupme-bot/-/fancy-groupme-bot-0.1.3.tgz",
   "_shasum": "b70b3fc84de2330c4aedd07f74e7f3163392a128",
   "_shrinkwrap": null,
   "_spec": "fancy-groupme-bot",
-  "_where": "C:\\Users\\enYx\\Documents",
+  "_where": "C:\\Users\\enYx\\Documents\\GitHub",
   "author": {
     "name": "Chris McAvoy",
     "email": "chris.mcavoy@gmail.com"
